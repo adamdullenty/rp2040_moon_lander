@@ -1,0 +1,29 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+*.uf2
+*.eep
+*.lss
+*.sym
+*.map
+*.su
+*.d
+*.o
+*.a
+*.lst
+
+# IDE
+.vscode/
+*.code-workspace
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Python (screenshot tooling)
+__pycache__/
+*.pyc
+.venv/
+venv/

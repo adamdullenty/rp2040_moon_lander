@@ -2,12 +2,10 @@
 
 A lunar lander game for the Adafruit Feather RP2040 with a 128×64 OLED FeatherWing (SH1107).
 
-## Screenshot (mockup)
-
-![Gameplay](docs/screenshot.png)
-
-_(TODO: Real screenshot + video)_
-
+|  |  |
+|---|---|
+| <img width="612" height="299" alt="image" src="https://github.com/user-attachments/assets/0bc2931c-6102-4c6c-aa04-d62929a3e976" /> | <img width="624" height="301" alt="image" src="https://github.com/user-attachments/assets/a79be884-8adb-4ab8-868d-3d818fe6f3a7" /> |
+| <img width="612" height="304" alt="image" src="https://github.com/user-attachments/assets/fea8a6c3-3f26-4e31-84ad-e3234ac3ef4b" /> |<img width="603" height="296" alt="image" src="https://github.com/user-attachments/assets/ca361bf4-e757-4f09-86bb-2887706dbe31" /> |
 
 ## Hardware
 

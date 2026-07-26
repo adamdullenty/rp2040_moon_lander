@@ -2,6 +2,10 @@
 
 A lunar lander game for the Adafruit Feather RP2040 with a 128×64 OLED FeatherWing (SH1107).
 
+## Demo
+
+[![Gameplay demo](https://img.youtube.com/vi/FGu6VVlrhw0/hqdefault.jpg)](https://www.youtube.com/watch?v=FGu6VVlrhw0)
+
 |  |  |
 |---|---|
 | <img width="612" height="299" alt="image" src="https://github.com/user-attachments/assets/0bc2931c-6102-4c6c-aa04-d62929a3e976" /> | <img width="624" height="301" alt="image" src="https://github.com/user-attachments/assets/a79be884-8adb-4ab8-868d-3d818fe6f3a7" /> |
@@ -53,3 +57,9 @@ If serial upload fails, enter the bootloader (hold **BOOT**, tap **RESET**) and 
 Land on the flat pad slowly and upright. Too fast, too tilted, or rough ground = crash.
 
 The HUD shows remaining fuel (`F:`) and a vertical-speed meter on the right (safe landing threshold marked).
+
+## Setup
+
+Feather RP2040 with OLED FeatherWing stacked, connected over USB.
+
+![Feather RP2040 + OLED FeatherWing](docs/setup.png)
